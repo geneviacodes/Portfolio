@@ -1,0 +1,12 @@
+main p { text-align: center;
+  /*the h1 style isn't working*/
+}
+ h1 {
+  font-family: "Fantasy";
+  text-align: center;
+  
+}
+
+html {
+  background-image: repeating-linear-gradient(pink, rgb(250, 157, 250));
+}
