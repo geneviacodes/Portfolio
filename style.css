@@ -1,5 +1,19 @@
-main p { text-align: center;
-  /*the h1 style isn't working*/
+main { text-align: center;
+}
+section {
+  border-style: dotted;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+p {
+  text-align: center;
+
+  
 }
  h1 {
   font-family: "Fantasy";
@@ -9,4 +23,8 @@ main p { text-align: center;
 
 html {
   background-image: repeating-linear-gradient(pink, rgb(250, 157, 250));
+}
+h3 {
+
+text-align: center;
 }
