@@ -5,8 +5,8 @@ section {
 }
 
 .center {
-  max-width: 100px;
-  max-height: 150px;
+  width: 100px;
+  height: 150px;
   display: block;
   margin-left: auto;
   margin-right: auto;
