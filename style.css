@@ -22,10 +22,12 @@ p {
   font-family: "Fantasy";
   text-align: center;
   color: blueviolet;
+   font-size: 48px;
   
 }
 h2 {
 color: blueviolet;
+  font-size: 36px;
 }
 
 html {
@@ -34,4 +36,5 @@ html {
 h3 {
 color: blueviolet;
 text-align: center;
+font-size: 22px;
 }
