@@ -2,6 +2,7 @@ main { text-align: center;
 }
 section {
   border-style: dotted;
+  background: rgba(0, 128, 0, 0.3)
 }
 
 .center {
