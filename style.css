@@ -5,8 +5,9 @@ section {
 }
 
 .center {
-  margin: 30px;
-  padding: 80px;
+  margin: 10px;
+  padding: 100px;
+  border-radius: 50%;
 }
 p {
   text-align: center;
