@@ -19,13 +19,17 @@ p {
  h1 {
   font-family: "Fantasy";
   text-align: center;
+  color: blueviolet;
   
+}
+h2 {
+color: blueviolet;
 }
 
 html {
   background-image: repeating-linear-gradient(pink, rgb(250, 157, 250));
 }
 h3 {
-
+color: blueviolet;
 text-align: center;
 }
