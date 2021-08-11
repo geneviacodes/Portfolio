@@ -1,13 +1,13 @@
 main { text-align: center;
 }
 section {
-  border-style: dotted;
-  background: MistyRose;
+  border-style: dotted; /* choosing this border style was something I googled */
+  background: MistyRose; 
 }
 
 .center {
   display: block;
-  margin-left: auto;
+  margin-left: auto;  /* it took a lot of googling to make this the way I wanted it */
   margin-right: auto;
   border-radius: 50%;
   height: 300px;
